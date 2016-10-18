@@ -32,6 +32,7 @@ public class Applicant extends java.lang.Object implements java.io.Serializable 
         this.creditRating = creditRating;
         this.name = name;
         this.approved = approved;
+        System.out.println("Application init");
     }
 
 
